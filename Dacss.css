@@ -1,0 +1,35 @@
+
+.container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('images/123.webp');
+    background-size: cover;
+    background-position: center;
+  }
+
+.fmonse{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 6rem; 
+    color:  #ffde59 ;
+  }
+
+  .fmonse2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem; 
+    color:  gray ;
+    text-align: center;
+  }
+  
+.foswald{
+    font-family: 'Cardo', serif;
+    font-size: 3rem; 
+    color:white;
+}
+.foswald2{
+    font-family: 'Cardo', serif;
+    font-size: 2rem; 
+    text-align: center;
+    color:white;
+}
